@@ -1,4 +1,4 @@
 # hello-world
-test repositor
+test repository
 
 Today is Saturday and I am happy to do exercise.
